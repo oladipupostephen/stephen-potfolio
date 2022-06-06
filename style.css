@@ -405,7 +405,11 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
+    
     content: "Journey as a Developer.";
+}
+#teams .title{
+    padding-bottom: 40px;
 }
 .teams .carousel .card{
     background: #222;
@@ -485,6 +489,7 @@ section .title::after{
     margin: 10px 0;
 }
 .contact .contact-content .row{
+    margin: 10px;
     display: flex;
     height: 65px;
     align-items: center;
