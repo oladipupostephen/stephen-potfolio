@@ -137,7 +137,7 @@ section .title::after{
 
 .toggle-button {
     width: 2rem;
-    background: red;
+    background: black;
     border: none;
     cursor: pointer;
     padding-top: 0;
@@ -397,10 +397,10 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .git::before{
-    width: 80%;
+    width: 95%;
 }
 .skills-content .right .netlify::before{
-    width: 90%;
+    width: 95%;
 }
 
 /* teams section styling */
